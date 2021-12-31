@@ -5,7 +5,7 @@ They are really simple and should be easy for most people to understand. The cod
 Every game has its own folder that contains a readme and schematics. All schematics are created with the free online tool [easyeda](https://easyeda.com/editor) and can be uploaded and modified according to your needs. 
 
 # Prerequires
-In order to be able to build and run these games you'll need to have,
+In order to be able to build and run these games you'll need to have something like,
 - An Arduino 2560 (or similar)
 - Electrical components, such as 
   - A few LED's 
