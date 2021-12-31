@@ -21,4 +21,4 @@ I have very limited knowledge within the c-programming area, and my elecrical kn
 
 # Get started
 Simply dive in to one of the subfolders in this repository and build the game. 
-Once built, upload the source code via the Arduino IDE and play.
+Once built, upload the source code (the 'ino-file' directly in the subfolders root) via the Arduino IDE and play.
