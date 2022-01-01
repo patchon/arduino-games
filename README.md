@@ -13,6 +13,7 @@ In order to be able to build and run these games you'll need to have something l
   - A breadboard
   - Resistors / Potentiometer
   - Cables 
+  - Buttons
 - A little c-programming (arduino) and some elecrical know-how
 
 **Note**
