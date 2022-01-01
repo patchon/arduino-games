@@ -26,7 +26,7 @@
           "transformList": "",
           "hasIdFlag": true
         },
-        "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~290~-575",
+        "canvas": "CA~1000~1000~#FFFFFF~none~#CCCCCC~5~1000~1000~line~5~pixel~5~290~-575",
         "shape": [
           "R~345~-350~~~260~115~#000000~1~0~none~gge335~0~",
           "W~465 -475 465 -370 465 -350~#0000FF~1~0~none~gge352~0",
@@ -77,6 +77,11 @@
           "W~445 -475 445 -450~#000000~1~0~none~gge2744~0",
           "W~405 -475 405 -450~#000000~1~0~none~gge2745~0",
           "R~355~-535~~~210~30~#FFFFFF~8~0~#FFFFFF~gge2753~0~",
+          "T~L~350~-420~0~#0000FF~Tahoma~4pt~~~~comment~White~1~start~gge2755~0~pinpart",
+          "T~L~390~-420~0~#0000FF~Tahoma~4pt~~~~comment~Blue~1~start~gge2760~0~pinpart",
+          "T~L~430~-420~0~#0000FF~Tahoma~4pt~~~~comment~Yellow~1~start~gge2763~0~pinpart",
+          "T~L~470~-420~0~#0000FF~Tahoma~4pt~~~~comment~Green~1~start~gge2766~0~pinpart",
+          "T~L~515~-420~0~#0000FF~Tahoma~4pt~~~~comment~Red~1~start~gge2769~0~pinpart",
           "J~405~-215~2~#000000~gge1230~0",
           "J~445~-450~2.5~#CC0000~gge2724~0",
           "J~525~-450~2.5~#CC0000~gge2725~0",
