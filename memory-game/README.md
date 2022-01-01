@@ -19,6 +19,6 @@ You can simply upload the [json file ](https://github.com/patchon/arduino-games/
 This is an example of how it can look when built
 <img src="https://github.com/patchon/arduino-games/blob/main/memory-game/schematic/example-build.jpg" width="700" >
 
-** Note **
+**Note**
 
 I'm missing the button for the red led in this build.
