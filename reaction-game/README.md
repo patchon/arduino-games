@@ -11,7 +11,7 @@ The schematic is drawn in the free online tool [easyeda](https://easyeda.com/edi
 
 You can simply upload the [json file ](https://github.com/patchon/arduino-games/blob/main/reaction-game/schematic/reaction-game.json) in the editor and make desired changes.
 
-<img src="https://github.com/patchon/arduino-games/blob/main/reactioning-game/schematic/reaction-game.png" width="700" >
+<img src="https://github.com/patchon/arduino-games/blob/main/reaction-game/schematic/reaction-game.png" width="700" >
 
 # Example build
 This is an example of how it can look when built
